@@ -1,0 +1,73 @@
+body{
+  background: url("background-2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: auto;
+  margin: auto;
+}
+
+.SignUpBox{
+  background-color: rgb(44, 62,80,0.9);
+  width: fit-content;
+  margin: auto;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+form{
+  width: 240px;
+  text-align: center;
+  margin-top: -10px;
+}
+
+input{
+  width: 240px;
+  text-align: center;
+  border: none;
+  border: transparent;
+  border-bottom: 2px solid white;
+  font-size: 20px;
+  color: white;
+  font-weight: 200px;
+  padding: 10px 0;
+  transition: border 0.5s;
+  outline: none;
+  height: 35px;
+  background-color: transparent;
+}
+
+button{
+  border: none;
+  width: 190px;
+  color: rgb(9, 9, 9);
+  font-size: 20px;
+  line-height: 15px;
+  padding: 10px 0;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+button:hover{
+  background: black;
+  color: rgb(245, 243, 243);
+}
+
+h2{
+  color: gold;
+}
+
+a{
+  color: orangered;
+}
+
+a:hover{
+  color: blue;
+}
+
+.SignIn{
+  color: white;
+}
+
+p{
+  color: whitesmoke;
+}
